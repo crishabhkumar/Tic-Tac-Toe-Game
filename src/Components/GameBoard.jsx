@@ -14,7 +14,7 @@ export default function GameBoard() {
       let updatedBoard = [
         ...prevGameBoard.map((innerArray) => [...innerArray]),
       ];
-      updatedBoard[rowIndex][colIndex] = "X";
+      updatedBoard[rowIndex][colIndex] = "0";
       return updatedBoard;
     });
   }
