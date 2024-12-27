@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Game
 
-Welcome to the Tic-Tac-Toe Game! This is a simple implementation of the classic game, built using React.Where someone who just wants to play a quick game, this project is for you.
+Welcome to the Tic-Tac-Toe Game! This is a simple implementation of the classic game, built using **React**. Where those just wants to play a quick game, this project is for you.
 
 ## Features
 
@@ -21,3 +21,13 @@ Welcome to the Tic-Tac-Toe Game! This is a simple implementation of the classic 
 - If all nine squares are filled without a winner, the game ends in a draw.
 
 ## Game ScreenShots
+
+<img src="https://github.com/crishabhkumar/Tic-Tac-Toe-Game/blob/main/gameSS/StartingApplication.png" alt="StartingOfPage" width="500"> <img src="https://github.com/crishabhkumar/Tic-Tac-Toe-Game/blob/main/gameSS/EditPlayer.png" alt="You can edit player name." width="500">
+<img src="https://github.com/crishabhkumar/Tic-Tac-Toe-Game/blob/main/gameSS/GameInBetween.png" alt="Game in between" width="500"> <img src="https://github.com/crishabhkumar/Tic-Tac-Toe-Game/blob/main/gameSS/GameWon.png" alt="Game finished." width="500">
+
+## Thank You for Visiting!
+
+I hope you enjoy the Tic-Tac-Toe game! If you have any feedback, suggestions, or just want to share your experience, feel free to reach out [Email](crishabhkumar@gmail.com) or contribute to the project.
+
+Happy coding! 😊
+
